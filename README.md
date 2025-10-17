@@ -22,7 +22,7 @@ STEP 6: Execute the program using runserver command.
 
 ## PROGRAM
 
-```
+```py
 <html>
     <body>
         <h3 align='center'>SLOT TIME TABLE- ANISH ADAN THIVAKARAN (25017997)</h3>
