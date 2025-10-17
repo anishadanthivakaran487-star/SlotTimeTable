@@ -27,6 +27,7 @@ Execute the program using runserver command.
 
 ## PROGRAM
 
+```
 <html>
     <body>
         <h3 align='center'>SLOT TIME TABLE- ANISH ADAN THIVAKARAN (25017997)</h3>
@@ -105,6 +106,7 @@ Execute the program using runserver command.
         </table>
     </body>
 </html>
+```
 
 ## OUTPUT
 
