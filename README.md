@@ -1,7 +1,7 @@
 # Ex03 Time Table
 ## Date:17.10.2025
-## NAME:ANISH ADAN THIVAKARAN
-## REF.NO: 25017997
+## Name:ANISH ADAN THIVAKARAN
+## Ref.No: 25017997
 
 ## AIM
 To write a html webpage page to display your slot timetable.
